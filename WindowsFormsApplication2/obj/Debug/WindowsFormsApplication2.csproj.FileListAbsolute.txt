@@ -1,0 +1,62 @@
+E:\VS_Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+E:\VS_Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+E:\VS_Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+E:\VS_Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+E:\VS_Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+E:\VS_Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+E:\VS_Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+E:\VS_Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+E:\VS_Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Login.resources
+E:\VS_Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Register.resources
+E:\VS_Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Data.resources
+E:\VS_Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.BanScreen.resources
+E:\VS_Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Main.resources
+E:\VS_Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.MissionScreen.resources
+E:\VS_Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.QuanLi.resources
+E:\VS_Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.DangTin.resources
+E:\VS_Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.CheckTin.resources
+E:\VS_Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.PhanCong.resources
+E:\VS_Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.DoiMatKhau.resources
+E:\VS_Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.DKTT.resources
+C:\Users\thanh\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\thanh\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\thanh\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\thanh\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.BanScreen.resources
+C:\Users\thanh\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Data.resources
+C:\Users\thanh\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.DKTT.resources
+C:\Users\thanh\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.QuanLi.resources
+C:\Users\thanh\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.DangTin.resources
+C:\Users\thanh\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.CheckTin.resources
+C:\Users\thanh\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.DoiMatKhau.resources
+C:\Users\thanh\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.PhanCong.resources
+C:\Users\thanh\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Login.resources
+C:\Users\thanh\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Main.resources
+C:\Users\thanh\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.MissionScreen.resources
+C:\Users\thanh\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\thanh\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Register.resources
+C:\Users\thanh\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+C:\Users\thanh\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+C:\Users\thanh\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\thanh\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\thanh\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojAssemblyReference.cache
+E:\VS_Projects\Nguyen phat CNPM\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+E:\VS_Projects\Nguyen phat CNPM\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+E:\VS_Projects\Nguyen phat CNPM\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+E:\VS_Projects\Nguyen phat CNPM\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+E:\VS_Projects\Nguyen phat CNPM\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.BanScreen.resources
+E:\VS_Projects\Nguyen phat CNPM\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Data.resources
+E:\VS_Projects\Nguyen phat CNPM\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.DKTT.resources
+E:\VS_Projects\Nguyen phat CNPM\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.QuanLi.resources
+E:\VS_Projects\Nguyen phat CNPM\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.DangTin.resources
+E:\VS_Projects\Nguyen phat CNPM\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.CheckTin.resources
+E:\VS_Projects\Nguyen phat CNPM\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.DoiMatKhau.resources
+E:\VS_Projects\Nguyen phat CNPM\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.PhanCong.resources
+E:\VS_Projects\Nguyen phat CNPM\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Login.resources
+E:\VS_Projects\Nguyen phat CNPM\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Main.resources
+E:\VS_Projects\Nguyen phat CNPM\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.MissionScreen.resources
+E:\VS_Projects\Nguyen phat CNPM\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+E:\VS_Projects\Nguyen phat CNPM\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Register.resources
+E:\VS_Projects\Nguyen phat CNPM\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Report.resources
+E:\VS_Projects\Nguyen phat CNPM\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+E:\VS_Projects\Nguyen phat CNPM\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+E:\VS_Projects\Nguyen phat CNPM\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb

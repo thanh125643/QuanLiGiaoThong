@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(DoiMatKhau));
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
@@ -69,6 +70,7 @@
             // 
             this.txtMkCu.Location = new System.Drawing.Point(133, 57);
             this.txtMkCu.Name = "txtMkCu";
+            this.txtMkCu.PasswordChar = '*';
             this.txtMkCu.Size = new System.Drawing.Size(190, 20);
             this.txtMkCu.TabIndex = 3;
             // 
@@ -76,6 +78,7 @@
             // 
             this.txtMkMoi.Location = new System.Drawing.Point(133, 103);
             this.txtMkMoi.Name = "txtMkMoi";
+            this.txtMkMoi.PasswordChar = '*';
             this.txtMkMoi.Size = new System.Drawing.Size(190, 20);
             this.txtMkMoi.TabIndex = 4;
             // 
@@ -83,6 +86,7 @@
             // 
             this.txtNhapLai.Location = new System.Drawing.Point(133, 152);
             this.txtNhapLai.Name = "txtNhapLai";
+            this.txtNhapLai.PasswordChar = '*';
             this.txtNhapLai.Size = new System.Drawing.Size(190, 20);
             this.txtNhapLai.TabIndex = 5;
             // 
@@ -110,6 +114,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.ClientSize = new System.Drawing.Size(383, 270);
             this.Controls.Add(this.btnBack);
             this.Controls.Add(this.btnSubmit);
@@ -119,8 +124,9 @@
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "DoiMatKhau";
-            this.Text = "s";
+            this.Text = "Doi Mat Khau";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.DoiMatKhau_FormClosing);
             this.ResumeLayout(false);
             this.PerformLayout();

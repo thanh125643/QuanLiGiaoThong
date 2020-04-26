@@ -23,6 +23,7 @@ namespace WindowsFormsApplication2
             this.connectsql = connectsql;
             Loads();
             binding();
+            this.Refresh();
         }
 
         void Loads()//load cac thong tin tu bang USER trong db len data grid view

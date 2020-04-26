@@ -54,7 +54,7 @@ namespace WindowsFormsApplication2
                         if (txtMkMoi.Text.Equals(txtNhapLai.Text))
                         {
                             sqlcon.Open();
-                            string command = "UPDATE USERS SET MK=@mk LOAI = 1 WHERE USERID = @id";
+                            string command = "UPDATE USERS SET MK=@mk,LOAI = 1 WHERE USERID = @id";
                             SqlCommand querry1 = new SqlCommand(command, sqlcon);
                             querry1.Parameters.AddWithValue("@mk", txtMkMoi.Text);
                             querry1.Parameters.AddWithValue("@id", userid);

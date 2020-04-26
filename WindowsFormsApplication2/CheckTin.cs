@@ -134,7 +134,7 @@ namespace WindowsFormsApplication2
 
         private void btnPrevious_Click(object sender, EventArgs e)//chuyen ve phia truoc mot tin
         {
-            if (i < ds.Tables[0].Rows.Count || i!=0)
+            if (i < ds.Tables[0].Rows.Count && i!=0)
             {
                 i--;
                 txtName.Text = ds.Tables[0].Rows[i]["USERID"].ToString();

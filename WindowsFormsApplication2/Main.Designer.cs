@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Main));
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.daToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.nhiệmVụToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -175,9 +176,9 @@
             // dataGridView1
             // 
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Location = new System.Drawing.Point(221, 42);
+            this.dataGridView1.Location = new System.Drawing.Point(221, 27);
             this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.Size = new System.Drawing.Size(440, 323);
+            this.dataGridView1.Size = new System.Drawing.Size(440, 338);
             this.dataGridView1.TabIndex = 7;
             // 
             // btnSearch
@@ -210,6 +211,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.ClientSize = new System.Drawing.Size(661, 365);
             this.Controls.Add(this.txtViecChuaGQ);
             this.Controls.Add(this.label3);
@@ -220,6 +222,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.menuStrip1);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "Main";
             this.Text = "Main";
